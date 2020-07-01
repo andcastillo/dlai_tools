@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dlai_tools",  # Replace with your own username
-    version="0.1.0",
+    version="0.2.3",
     author="Andrés Castillo",
     author_email="andcastillo@gmail.com",
     description="Deployment script for notebooks",
